@@ -1,0 +1,54 @@
+{
+	"id": "1f579049-a09c-ed11-994a-0022489f9953",
+	"createdAt": "2023-01-25T11:06:17.130Z",
+	"createdBy": "cezar.strugariu@neptune-software.com",
+	"git": {
+		"remote": "https://github.com/neptune-software-marketplace/neptunesoftware-dxp-abb-logistics"
+	},
+	"name": "neptunesoftware-dxp-abb-logistics",
+	"description": "DXP Logistics Scenario",
+	"ver": "23.1.30.146",
+	"enableCICD": true,
+	"apps": [
+		{
+			"id": "04cab400-ba0e-4914-81d6-dd8fbd2c11aa",
+			"application": "neptune_deliveries",
+			"title": "Neptune Deliveries Application",
+			"description": ""
+		}
+	],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": [],
+	"media_library": [
+		{
+			"id": "86AA8D2D-A7A0-ED11-994A-0022489F9953",
+			"updatedAt": "2023-01-30T14:05:41.256Z",
+			"name": "Logistics",
+			"parent": null,
+			"package": "1F579049-A09C-ED11-994A-0022489F9953"
+		}
+	]
+}
