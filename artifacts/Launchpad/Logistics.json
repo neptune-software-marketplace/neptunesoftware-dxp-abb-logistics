@@ -5,7 +5,7 @@
 	"extUserRoles": [],
 	"extUserDepartments": [],
 	"catOrder": [
-		"c4712387-4796-ed11-9f5f-0022489f9819"
+		"24d1b260-e8a6-ed11-a8e0-0022489f97c8"
 	],
 	"layout": [],
 	"config": {
@@ -45,7 +45,7 @@
 	"searchEnableShadeCalc": null,
 	"usedEnableShadeCalc": null,
 	"enableTrace": false,
-	"ver": "23.2.7.133",
+	"ver": "23.2.7.137",
 	"pwa_enable": false,
 	"pwa_customImageIos": null,
 	"pwa_customImageAndroidOld": null,
@@ -58,10 +58,10 @@
 	"package": "1f579049-a09c-ed11-994a-0022489f9953",
 	"cat": [
 		{
-			"id": "c4712387-4796-ed11-9f5f-0022489f9819",
-			"name": "Logistics_scenario",
+			"id": "24d1b260-e8a6-ed11-a8e0-0022489f97c8",
+			"name": "Logistics",
 			"title": "Logistics",
-			"ver": "23.2.7.133"
+			"ver": "23.2.7.137"
 		}
 	]
 }
