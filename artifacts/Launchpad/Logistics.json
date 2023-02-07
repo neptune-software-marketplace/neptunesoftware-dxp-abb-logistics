@@ -23,7 +23,20 @@
 	"ui5Version": null,
 	"ui5Url": null,
 	"ui5Theme": null,
-	"header": "",
+	"header": [
+		"==OBJECT STRING==",
+		"",
+		"<script src=\"/media/root/DeliveryApp/leaflet.js\"></script>",
+		"<script src=\"/media/root/DeliveryApp/localforage.js\"></script>",
+		"<script src=\"/media/root/DeliveryApp/leaflet-offline.js\"></script>",
+		"<script src=\"/media/root/DeliveryApp/leaflet.markercluster-src.js\"></script>",
+		"<script src=\"/media/root/DeliveryApp/signature_pad.min.js\"></script>",
+		"<script src=\"/media/root/DeliveryApp/leaflet.smoothmarkerbouncing.js\"></script>",
+		"",
+		"<link rel=\"stylesheet\" href=\"/media/root/DeliveryApp/leaflet.css\">",
+		"<link rel=\"stylesheet\" href=\"/media/root/DeliveryApp/MarkerCluster.css\" />",
+		"<link rel=\"stylesheet\" href=\"/media/root/DeliveryApp/MarkerCluster.Default.css\" />"
+	],
 	"customTheme": null,
 	"isExternal": false,
 	"emailPattern": null,
@@ -45,7 +58,7 @@
 	"searchEnableShadeCalc": null,
 	"usedEnableShadeCalc": null,
 	"enableTrace": false,
-	"ver": "23.2.7.137",
+	"ver": "23.2.7.1317",
 	"pwa_enable": false,
 	"pwa_customImageIos": null,
 	"pwa_customImageAndroidOld": null,
@@ -61,7 +74,7 @@
 			"id": "24d1b260-e8a6-ed11-a8e0-0022489f97c8",
 			"name": "Logistics",
 			"title": "Logistics",
-			"ver": "23.2.7.137"
+			"ver": "23.2.7.1316"
 		}
 	]
 }

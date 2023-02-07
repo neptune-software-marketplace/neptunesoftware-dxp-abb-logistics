@@ -7,7 +7,7 @@
 	},
 	"name": "neptunesoftware-dxp-abb-logistics",
 	"description": "DXP Logistics Scenario",
-	"ver": "23.2.7.139",
+	"ver": "23.2.7.1313",
 	"enableCICD": true,
 	"apps": [
 		{
@@ -31,9 +31,9 @@
 	"api_group": [],
 	"tile": [
 		{
-			"id": "16df6b9e-f416-ec11-ae72-0050f255283a",
+			"id": "d0f3207f-e9a6-ed11-a8e0-0022489f97c8",
 			"description": null,
-			"name": "Delivery Application"
+			"name": "Logistics"
 		}
 	],
 	"category": [
