@@ -7,7 +7,7 @@
 	},
 	"name": "neptunesoftware-dxp-abb-logistics",
 	"description": "DXP Logistics Scenario",
-	"ver": "23.1.30.147",
+	"ver": "23.1.30.1514",
 	"enableCICD": true,
 	"apps": [
 		{
@@ -36,8 +36,20 @@
 			"name": "Delivery Application"
 		}
 	],
-	"category": [],
-	"launchpad": [],
+	"category": [
+		{
+			"id": "c4712387-4796-ed11-9f5f-0022489f9819",
+			"description": null,
+			"name": "Logistics_scenario"
+		}
+	],
+	"launchpad": [
+		{
+			"id": "92ce89e0-e7a6-ed11-a8e0-0022489f97c8",
+			"name": "Logistics",
+			"description": null
+		}
+	],
 	"certificates": [],
 	"role": [],
 	"systems": [],
